@@ -17,6 +17,8 @@ choco install neovim -y
 choco install notepadplusplus -y
 choco install nvm -y
 choco install openjdk -y
+choco install maven -y
+choco install gradle -y
 choco install python -y
 choco install rancher-desktop -y
 choco install sumatrapdf -y
