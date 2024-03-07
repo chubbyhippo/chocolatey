@@ -10,6 +10,7 @@ choco install googlechrome -y
 choco install graalvm -y
 choco install inkscape -y
 choco install insomnia-rest-api-client -y
+choco install jetbrainsmono -y
 choco install jetbrainstoolbox -y
 choco install jmc -y
 choco install nanazip -y
