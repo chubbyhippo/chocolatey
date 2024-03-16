@@ -19,7 +19,7 @@ choco install notepadplusplus -y
 choco install nvm -y
 choco install openjdk -y
 choco install maven -y
-choco install office365business -y
+choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
 choco install gradle -y
 choco install pandoc -y
 choco install python -y
