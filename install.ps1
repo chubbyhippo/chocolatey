@@ -32,6 +32,7 @@ choco install virtualbox --params "/NoDesktopShortcut" -y
 choco install vlc -y
 choco install vscode --params "/NoDesktopIcon" -y
 choco install winscp -y
+choco install wget -y
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
