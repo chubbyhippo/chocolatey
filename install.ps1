@@ -24,6 +24,7 @@ choco install gradle -y
 choco install pandoc -y
 choco install python -y
 choco install rancher-desktop -y
+choco install rufus -y
 choco install sumatrapdf -y
 choco install tor-browser -y
 choco install virtualbox --params "/NoDesktopShortcut" -y
