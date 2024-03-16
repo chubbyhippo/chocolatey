@@ -3,6 +3,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # install programs
 choco install autohotkey -y
 choco install cpu-z -y
+choco install curl -y
 choco install gimp -y
 choco install git -y
 choco install golang -y
