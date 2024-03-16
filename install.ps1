@@ -19,6 +19,7 @@ choco install notepadplusplus -y
 choco install nvm -y
 choco install openjdk -y
 choco install maven -y
+choco install office365business -y
 choco install gradle -y
 choco install pandoc -y
 choco install python -y
