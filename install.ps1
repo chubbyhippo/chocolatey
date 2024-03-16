@@ -16,6 +16,7 @@ choco install jetbrainsmono -y
 choco install jetbrainstoolbox -y
 choco install jmc -y
 choco install jq -y
+choco install make -y
 choco install nanazip -y
 choco install neovim -y
 choco install notepadplusplus -y
