@@ -10,6 +10,7 @@ choco install git -y
 choco install golang -y
 choco install googlechrome -y
 choco install graalvm -y
+choco install gradle -y
 choco install inkscape -y
 choco install insomnia-rest-api-client -y
 choco install jetbrainsmono -y
@@ -17,26 +18,26 @@ choco install jetbrainstoolbox -y
 choco install jmc -y
 choco install jq -y
 choco install make -y
+choco install maven -y
 choco install nanazip -y
 choco install neovim -y
 choco install notepadplusplus -y
 choco install nvm -y
-choco install openjdk -y
-choco install maven -y
 choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
-choco install gradle -y
+choco install openjdk -y
 choco install pandoc -y
 choco install python -y
+choco install quarkus -y
 choco install rancher-desktop -y
-choco install rufus -y
 choco install ruby -y
+choco install rufus -y
 choco install sumatrapdf -y
 choco install tor-browser -y
 choco install virtualbox --params "/NoDesktopShortcut" -y
 choco install vlc -y
 choco install vscode --params "/NoDesktopIcon" -y
-choco install winscp -y
 choco install wget -y
+choco install winscp -y
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
