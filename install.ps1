@@ -11,6 +11,7 @@ choco install golang -y
 choco install googlechrome -y
 choco install graalvm -y
 choco install gradle -y
+choco install imagemagick -y
 choco install inkscape -y
 choco install insomnia-rest-api-client -y
 choco install jetbrainsmono -y
