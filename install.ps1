@@ -16,13 +16,13 @@ choco install googlechrome -y
 choco install inkscape -y
 choco install insomnia-rest-api-client -y
 choco install jetbrainsmono -y
-choco install jetbrainstoolbox -y
+
 choco install jq -y
 choco install make -y
 choco install msys2 -y
 choco install nanazip -y
-choco install neovim -y
-choco install notepadplusplus -y
+
+
 choco install nvm -y
 choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
 choco install pandoc -y
@@ -34,7 +34,7 @@ choco install sumatrapdf -y
 choco install tor-browser -y
 choco install virtualbox --params "/NoDesktopShortcut" -y
 choco install vlc -y
-choco install vscode --params "/NoDesktopIcon" -y
+
 choco install wget -y
 choco install winscp -y
 choco install zoomit -y
@@ -48,7 +48,11 @@ choco install maven -y
 choco install asciidoctorj -y
 choco install quarkus -y
 
-
+# IDEs/Editors
+choco install jetbrainstoolbox -y
+choco install neovim -y
+choco install notepadplusplus -y
+choco install vscode --params "/NoDesktopIcon" -y
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
