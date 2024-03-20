@@ -2,8 +2,11 @@
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 # install programs
 
+# based
 choco install autohotkey -y
 choco install cmake -y
+
+
 choco install cpu-z -y
 choco install curl -y
 choco install gimp -y
@@ -44,6 +47,8 @@ choco install gradle -y
 choco install maven -y
 choco install asciidoctorj -y
 choco install quarkus -y
+
+
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
