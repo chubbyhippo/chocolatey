@@ -31,7 +31,7 @@ choco install quarkus -y
 choco install jetbrainstoolbox -y
 choco install neovim -y
 choco install notepadplusplus -y
-choco install vscode --params "/NoDesktopIcon" -y
+choco install vscode
 
 # API testing tools
 choco install insomnia-rest-api-client -y
