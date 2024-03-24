@@ -6,11 +6,11 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install autohotkey -y
 
 # terminal tools
-choco install git -y
+
 choco install cmake -y
 choco install curl -y
 choco install jq -y
-choco install make -y
+choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
 choco install msys2 -y
 choco install nvm -y
 choco install pandoc -y
