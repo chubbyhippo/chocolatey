@@ -47,7 +47,7 @@ choco install rancher-desktop -y
 choco install rufus -y
 choco install sumatrapdf -y
 choco install tor-browser -y
-choco install virtualbox
+choco install virtualbox -y
 choco install vlc -y
 choco install wget -y
 choco install winscp -y
