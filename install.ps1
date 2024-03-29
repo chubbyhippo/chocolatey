@@ -25,6 +25,7 @@ choco install graalvm -y
 choco install gradle -y
 choco install maven -y
 choco install asciidoctorj -y
+choco install spring-boot-cli -y
 choco install quarkus -y
 
 # IDEs/Editors
