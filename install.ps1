@@ -30,8 +30,7 @@ choco install quarkus -y
 # IDEs/Editors
 choco install jetbrainstoolbox -y
 choco install neovim -y
-choco install notepadplusplus -y
-choco install vscode
+choco install vscode -y
 
 # API testing tools
 choco install insomnia-rest-api-client -y
