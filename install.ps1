@@ -43,6 +43,7 @@ choco install googlechrome -y
 choco install inkscape -y
 choco install jetbrainsmono -y
 choco install nanazip -y
+choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
 choco install rancher-desktop -y
 choco install rufus -y
 choco install sumatrapdf -y
@@ -52,7 +53,6 @@ choco install vlc -y
 choco install wget -y
 choco install winscp -y
 choco install zoomit -y
-choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
