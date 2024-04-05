@@ -6,7 +6,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install autohotkey -y
 
 # terminal tools
-
 choco install cmake -y
 choco install curl -y
 choco install jq -y
