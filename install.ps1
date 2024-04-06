@@ -15,6 +15,7 @@ choco install libressl -y
 choco install msys2 -y
 choco install nvm -y
 choco install pandoc -y
+choco install psql -y
 choco install golang -y
 choco install ruby -y
 choco install python -y
