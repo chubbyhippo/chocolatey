@@ -42,6 +42,7 @@ choco install gimp -y
 choco install googlechrome -y
 choco install inkscape -y
 choco install jetbrainsmono -y
+choco install libreoffice-fresh -y
 choco install nanazip -y
 choco install qbittorrent -y
 choco install rancher-desktop -y
