@@ -43,7 +43,6 @@ choco install googlechrome -y
 choco install inkscape -y
 choco install jetbrainsmono -y
 choco install nanazip -y
-choco install office365business --params "'/productid:O365ProPlusRetail /exclude:Access Groove Lync OneDrive OneNote Outlook Publisher /updates:FALSE /eula:FALSE'" -y
 choco install qbittorrent -y
 choco install rancher-desktop -y
 choco install rufus -y
