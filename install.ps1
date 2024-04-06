@@ -10,6 +10,7 @@ choco install cmake -y
 choco install curl -y
 choco install jq -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
+choco install libressl -y
 choco install msys2 -y
 choco install nvm -y
 choco install pandoc -y
