@@ -5,7 +5,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 # requireds
 choco install autohotkey -y
 
-# terminal tools
+# tools
 choco install cmake -y
 choco install curl -y
 choco install jq -y
@@ -20,6 +20,7 @@ choco install golang -y
 choco install ruby -y
 choco install python -y
 choco install rustup.install -y
+choco install visualstudio2022buildtools -y
 
 # java
 choco install openjdk -y
