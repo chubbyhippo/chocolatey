@@ -19,6 +19,7 @@ choco install psql -y
 choco install golang -y
 choco install ruby -y
 choco install python -y
+choco install rustup.install -y
 
 # java
 choco install openjdk -y
