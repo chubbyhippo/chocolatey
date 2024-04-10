@@ -48,6 +48,7 @@ choco install gimp -y
 choco install googlechrome -y
 choco install inkscape -y
 choco install jetbrainsmono -y
+choco install krita -y
 choco install libreoffice-fresh -y
 choco install nanazip -y
 choco install qbittorrent -y
