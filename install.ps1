@@ -8,6 +8,7 @@ choco install autohotkey -y
 # tools
 choco install cmake -y
 choco install curl -y
+choco install dotnet -y
 choco install jq -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
 choco install fzf -y
