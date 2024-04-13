@@ -34,6 +34,7 @@ choco install asciidoctorj -y
 choco install spring-boot-cli -y
 choco install quarkus -y
 choco install jbang -y
+choco install visualvm -y
 
 # IDEs/Editors
 choco install jetbrainstoolbox -y
