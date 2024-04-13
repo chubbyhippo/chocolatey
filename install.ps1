@@ -22,6 +22,7 @@ choco install ruby -y
 choco install python -y
 choco install rustup.install -y
 choco install visualstudio2022buildtools --package-parameters "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US" -y
+choco install wget -y
 
 # java
 choco install openjdk -y
@@ -58,7 +59,6 @@ choco install sumatrapdf -y
 choco install tor-browser -y
 choco install virtualbox -y
 choco install vlc -y
-choco install wget -y
 choco install winscp -y
 choco install zoomit -y
 
