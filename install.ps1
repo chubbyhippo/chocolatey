@@ -22,6 +22,7 @@ choco install golang -y
 choco install ruby -y
 choco install python -y
 choco install rustup.install -y
+choco install starship -y
 choco install visualstudio2022buildtools --package-parameters "--allWorkloads --includeRecommended --includeOptional --passive --locale en-US" -y
 choco install wget -y
 
