@@ -14,7 +14,6 @@ choco install jq -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
 choco install fzf -y
 choco install libressl -y
-choco install mingw -y
 choco install msys2 -y
 choco install nvm -y
 choco install pandoc -y
