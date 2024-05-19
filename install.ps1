@@ -66,7 +66,7 @@ choco install winscp -y
 choco install zoomit -y
 
 # fonts
-choco install nerd-fonts-3270 -y
+choco install nerd-fonts-jetbrainsmono -y
 choco install jetbrainsmono -y
 
 # refresh
