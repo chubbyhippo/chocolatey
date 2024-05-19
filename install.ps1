@@ -52,7 +52,6 @@ choco install cpu-z -y
 choco install gimp -y
 choco install googlechrome -y
 choco install inkscape -y
-choco install jetbrainsmono -y
 choco install krita -y
 choco install libreoffice-fresh -y
 choco install nanazip -y
@@ -65,6 +64,10 @@ choco install virtualbox -y
 choco install vlc -y
 choco install winscp -y
 choco install zoomit -y
+
+# fonts
+choco install nerd-fonts-3270 -y
+choco install jetbrainsmono -y
 
 # refresh
 $Env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine")
