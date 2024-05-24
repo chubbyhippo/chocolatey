@@ -18,6 +18,7 @@ choco install nvm -y
 choco install pandoc -y
 choco install psql -y
 choco install golang -y
+choco install ripgrep -y
 choco install ruby -y
 choco install python -y
 choco install rustup.install -y
