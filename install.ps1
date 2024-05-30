@@ -49,7 +49,6 @@ choco install vscode -y
 choco install insomnia-rest-api-client -y
 
 # Apps
-choco install cpu-z -y
 choco install gimp -y
 choco install googlechrome -y
 choco install hwinfo -y
