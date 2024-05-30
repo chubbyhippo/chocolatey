@@ -52,6 +52,7 @@ choco install insomnia-rest-api-client -y
 choco install cpu-z -y
 choco install gimp -y
 choco install googlechrome -y
+choco install hwinfo -y
 choco install inkscape -y
 choco install krita -y
 choco install libreoffice-fresh -y
