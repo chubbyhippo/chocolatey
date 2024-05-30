@@ -12,6 +12,7 @@ choco install dotnet -y
 choco install elixir -y
 choco install jq -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
+choco install kubernetes-cli -y
 choco install libressl -y
 choco install msys2 -y
 choco install nvm -y
