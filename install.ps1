@@ -58,7 +58,6 @@ choco install krita -y
 choco install libreoffice-fresh -y
 choco install nanazip -y
 choco install qbittorrent -y
-choco install rancher-desktop -y
 choco install rufus -y
 choco install sumatrapdf -y
 choco install tor-browser -y
