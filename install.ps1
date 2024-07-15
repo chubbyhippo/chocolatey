@@ -11,6 +11,7 @@ choco install curl -y
 choco install dotnet -y
 choco install elixir -y
 choco install jq -y
+choco install fzf -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
 choco install k6 -y
 choco install kubernetes-cli -y
