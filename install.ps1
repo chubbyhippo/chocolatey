@@ -19,6 +19,7 @@ choco install k6 -y
 choco install kubernetes-cli -y
 choco install lf -y
 choco install libressl -y
+choco install lsd -y
 choco install msys2 -y
 choco install nvm -y
 choco install pandoc -y
