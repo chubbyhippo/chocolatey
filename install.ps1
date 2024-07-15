@@ -8,6 +8,7 @@ choco install autohotkey -y
 # cmd tools
 choco install cmake -y
 choco install curl -y
+choco install bat -y
 choco install dotnet -y
 choco install elixir -y
 choco install jq -y
