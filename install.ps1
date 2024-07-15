@@ -12,6 +12,7 @@ choco install bat -y
 choco install dotnet -y
 choco install elixir -y
 choco install jq -y
+choco install fd -y
 choco install fzf -y
 choco install git --params "'/GitAndUnixToolsOnPath /WindowsTerminal /SChannel /WindowsTerminalProfile'" -y
 choco install k6 -y
